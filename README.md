@@ -1,6 +1,6 @@
 - hello im sarah :D
 - currently learning html/css and ux design
-- completing my diploma in administration
+- completed my diploma in administration
 - applying to internships is hard
 - twitch hire me pls!
 
